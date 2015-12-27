@@ -1,0 +1,16 @@
+{
+  "title": "ymp3",
+  "name": "ymp3",
+  "version": "0.0.0",
+  "description": "Download mp3 from youtube continuosly ",
+  "main": "index.js",
+  "author": "Akash Goel",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
