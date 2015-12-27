@@ -1,2 +1,2 @@
 #ymp3
-Download mp3 from youtube continuosly 
+Download mp3 from youtube continuously 
