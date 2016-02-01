@@ -4,7 +4,7 @@ A firefox add-on to automatically inspect a browser session and download audio f
 
 The add-on is active by default. For every firefox window, the add-on will continuosly scan after each interval and download the youtube video playing in a tab.
 
-The download is based on the tool youtube-dl https://github.com/rg3/youtube-dl .
+The download is based on the tool [youtube-dl](https://github.com/rg3/youtube-dl).
 
 The server is written in Python using Flask.
 
@@ -28,7 +28,7 @@ sudo pip install youtube-dl flask
 sudo npm install jpm --global
 ```
 
-###Use -
+###Usage -
 
 1. Run the ```server.py```
 2. ```cd``` into ```addon``` folder
