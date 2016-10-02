@@ -2,7 +2,7 @@
 
 A firefox add-on to automatically inspect a browser session and download audio for all the youtube videos running in all the tabs.
 
-The add-on is active by default. For every firefox window, the add-on will continuosly scan after each interval and download the youtube video playing in a tab.
+The add-on is active by default. For every firefox window, the add-on will continuously scan after each interval and download the youtube video playing in a tab.
 
 The download is based on the tool [youtube-dl](https://github.com/rg3/youtube-dl).
 
