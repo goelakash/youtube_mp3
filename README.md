@@ -8,7 +8,7 @@ The download is based on the tool [youtube-dl](https://github.com/rg3/youtube-dl
 
 The server is written in Python using Flask.
 
-###Prequisites - 
+###Prerequisites - 
 
 - **python 2** 
 
